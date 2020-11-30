@@ -1,16 +1,11 @@
-### Hi there 👋
+# Wiliam Rocha dos santos
+<p>
+<a href="mailto:wrsantos@ice.ufjf.br">
+<img src="https://img.shields.io/badge/-wiliamro.santos%40gmail.com-black?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:wrsantos@ice.ufjf.br" style="max-width:100%;">
+</a>
 
-<!--
-**WiliLing/WiliLing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/wiliam-rocha-dos-santos-47b258b5/">
+<img src="https://img.shields.io/badge/-Wiliam%20Rocha%20dos%20Santos-black?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/wiliam-rocha-dos-santos-47b258b5/" style="max-width:100%;">
+</a>
+</p>
+Atualmente cursando Sistemas de Informação na UFJF, com foco atual no desenvolvimento pessoal/profissional full stack e ciência de dados.
