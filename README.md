@@ -8,4 +8,4 @@
 <img src="https://img.shields.io/badge/-Wiliam%20Rocha%20dos%20Santos-black?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/wiliam-rocha-dos-santos-47b258b5/" style="max-width:100%;">
 </a>
 </p>
-Atualmente cursando Sistemas de Informação na UFJF, com foco atual no desenvolvimento pessoal/profissional full stack e ciência de dados.
+Um ; por dia afasta mal presságio
